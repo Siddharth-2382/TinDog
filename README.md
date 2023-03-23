@@ -19,11 +19,5 @@ Tindog features a responsive design that works well on various devices like desk
 - Download: a section that encourages users to download the Tindog app
 - Footer: a footer section that includes links to social media profiles and other information about the company
 
-## Contributing
-If you would like to contribute to Tindog, feel free to fork the repository and submit a pull request. I welcome contributions that improve the design or functionality of the website.
-
-## License
-Tindog is licensed under the MIT License. Feel free to use this code as a starting point for your own projects.
-
 ## Mockup
 <img width="1202" alt="Screenshot 2023-03-24 at 12 29 08 AM" src="https://user-images.githubusercontent.com/94699055/227322244-b9ddf27a-30fc-4dad-8c0e-7bdede400200.png">
